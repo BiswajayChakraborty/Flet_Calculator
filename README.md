@@ -1,6 +1,6 @@
 
 # Flet Calculator
-A simple Calculator App built with Flet, Python.
+A simple Calculator App using Flet, Python.
 
 
 
